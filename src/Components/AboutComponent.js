@@ -9,7 +9,7 @@ function AboutComponent() {
                     This is About Section
                 </div>
                 <div className="items-center flex justify-center">
-                    <img className="mt-12" src="https://www.freeiconspng.com/thumbs/about-us-icon/about-us-icon-15.jpg"></img>
+                    <img className="mt-12" src="https://www.freeiconspng.com/thumbs/about-us-icon/about-us-icon-15.jpg" alt=""></img>
                 </div>
             </section>
         </>

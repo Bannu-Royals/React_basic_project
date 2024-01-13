@@ -1,5 +1,4 @@
 import React from "react";
-import ButtonComponent from "./Header";
 
 function HomeComponent(){
     return (

@@ -9,7 +9,7 @@ function ContactComponent() {
                     This is Contact Section
                 </div>
                 <div className="items-center flex justify-center">
-                    <img className="mt-8" src="https://logos.flamingtext.com/Word-Logos/contact-design-sketch-name.png"></img>
+                    <img className="mt-8" src="https://logos.flamingtext.com/Word-Logos/contact-design-sketch-name.png" alt=""></img>
                 </div>
             </section>
 

@@ -9,7 +9,7 @@ function HomeComponent(){
                 This is Home Section
             </div>
             <div className="items-center flex justify-center">
-                <img src="https://thumbs.dreamstime.com/b/hands-holding-word-home-concept-47349026.jpg"></img>
+                <img src="https://thumbs.dreamstime.com/b/hands-holding-word-home-concept-47349026.jpg" alt=""></img>
             </div>
         </section>
         </>
