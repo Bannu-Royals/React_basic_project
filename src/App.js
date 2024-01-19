@@ -5,6 +5,7 @@ import ButtonComponent from "./Components/Header";
 import HomeComponent from "./Components/HomeComponent";
 import AboutComponent from "./Components/AboutComponent";
 import ContactComponent from "./Components/ContactComponent";
+import MailComponent from "./Components/MailUsComponent";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route path="/Home" element={<HomeComponent />} />
         <Route path="/About" element={<AboutComponent />} />
         <Route path="/Contact" element={<ContactComponent />} />
+        <Route path="/MailUs" element={<MailComponent />} />
 
       </Routes>
     </Router>
